@@ -72,11 +72,11 @@ spring.datasource.password=YOUR_PASSWORD
 
 ## Future Enhancements
 
-Authentication and authorization using Spring Security and JWT
-Pagination and search functionality
-API documentation using Swagger / OpenAPI
-Frontend integration using React or Angular
-Dockerization for easier deployment
+- Authentication and authorization using Spring Security and JWT
+- Pagination and search functionality
+- API documentation using Swagger / OpenAPI
+- Frontend integration using React or Angular
+- Dockerization for easier deployment
 
 ---
 
